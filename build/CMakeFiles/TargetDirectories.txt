@@ -1,0 +1,4 @@
+C:/Users/jszyn/Documents/TworzenieCmakeListy/build/CMakeFiles/pasjans.dir
+C:/Users/jszyn/Documents/TworzenieCmakeListy/build/CMakeFiles/pasjans_test.dir
+C:/Users/jszyn/Documents/TworzenieCmakeListy/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/jszyn/Documents/TworzenieCmakeListy/build/CMakeFiles/ZERO_CHECK.dir
