@@ -1,6 +1,6 @@
 # Pasjans Klondike (Solitaire) – Project Showcase
 
-![Pasjans](imagepasjans.jpg)
+![Pasjans](imagepasjans.png)
 
 ## Project Overview
 
