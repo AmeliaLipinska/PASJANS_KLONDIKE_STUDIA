@@ -1,5 +1,7 @@
 # Pasjans Klondike (Solitaire) – Project Showcase
 
+![Pasjans](imagepasjans.jpg)
+
 ## Project Overview
 
 This project is a **console-based implementation of the Klondike Solitaire game** written in C++. The application recreates the core mechanics of the classic card game, allowing the user to play directly in the terminal. The project was developed as part of university coursework and focuses on logic, data structures, and program organization.
